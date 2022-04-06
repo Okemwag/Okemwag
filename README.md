@@ -7,4 +7,4 @@
 - 💬 Ask me about Anything related to software development
 - 📫 How to reach me:Twitter @gabriel_okemwa.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Am Trained Actuary
+- ⚡ Fun fact: Am a Trained Actuary
