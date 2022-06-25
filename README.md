@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Smart contracts
+- 🔭 I’m currently working on Many projects.
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Fintech projects
 - 🤔 I’m looking for help with Blockchain.
