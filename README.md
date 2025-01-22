@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a software engineer with a deep interest in database internals, distributed systems, and performance optimization. I love exploring how databases work under the hood, from storage engines to query optimization and transaction management. My goal is to contribute to open-source database projects and build scalable, efficient systems.
+I'm a software engineer with a deep interest in database internals, distributed systems, and performance optimization. I love exploring how databases work under the hood, from storage engines to query optimization and transaction management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
