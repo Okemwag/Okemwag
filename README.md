@@ -14,7 +14,7 @@ I'm a software engineer with a deep interest in database internals, distributed 
 - **Database Internals**: Query Optimization, Indexing, Concurrency Control, WAL (Write-Ahead Logging)
 
 ### Programming Languages
-- Python, C/C++, Java, Go, Rust
+- Python, Typescript, Go, Kotlin
 
 ### Tools and Frameworks
 - Docker, Kubernetes, Git, Linux, Bash, Terraform
