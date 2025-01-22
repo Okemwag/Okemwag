@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Okemwag</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okemwag&label=Profile%20views&color=0e75b6&style=flat" alt="okemwag" /> </p>
+# Hi, I'm Okemwag 👋
+
+💻 Software Engineer | 🛠️ Database Systems Enthusiast | 🔍 Passionate about Database Internals, Distributed Systems, and Performance Optimization
+
+## About Me
+
+I'm a software engineer with a deep interest in database internals, distributed systems, and performance optimization. I love exploring how databases work under the hood, from storage engines to query optimization and transaction management. My goal is to contribute to open-source database projects and build scalable, efficient systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
