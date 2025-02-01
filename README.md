@@ -1,6 +1,7 @@
 # Hi, I'm Okemwag 👋
 
-💻 Software Engineer | 🛠️ Database Systems Enthusiast | 🔍 Passionate about Database Internals, Distributed Systems, and Performance Optimization
+💻 **Backend Engineer** | 🛠️ **Database Systems & Payment Platforms Specialist** | 🔍 **Passionate about Database Internals, Distributed Systems, and Performance Optimization**  
+🤖 **Aspiring ML Engineer**
 
 ## About Me
 
